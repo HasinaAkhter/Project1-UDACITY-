@@ -9,4 +9,5 @@
 2. Meeting of validation standard of html and css codes
 3. Responsive web-design
 4. html templates and documents use UTF-8 encoding
+5. Flex-box is used in order to create a comprehensive grid-based layout
 
