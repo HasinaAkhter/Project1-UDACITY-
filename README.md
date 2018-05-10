@@ -8,3 +8,5 @@
 1. Semantic mark-up of html
 2. Meeting of validation standard of html and css codes
 3. Responsive web-design
+4. html templates and documents use UTF-8 encoding
+
