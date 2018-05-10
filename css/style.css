@@ -5,8 +5,10 @@ body {
 	font-family: 'Open Sans', 'sans-serif';
 	font-size: 14px;
 	line-height: 1.6;
-    margin: 0;
-    padding: 0;	
+        margin: 0;
+        padding: 0;
+	display: flex;
+	flex-direction: column;
 }
 
 a {
