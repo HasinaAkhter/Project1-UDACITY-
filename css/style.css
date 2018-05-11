@@ -125,10 +125,6 @@ h3 {
     display: flex;
   }
 	
-  .portfolio {
-    flex-flow: row wrap;
-  }
-	
   .photo {
     flex-direction: column;
   }
